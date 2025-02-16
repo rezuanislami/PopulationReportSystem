@@ -1,0 +1,15 @@
+H:\PRS1\Population Report System\PopulationReportSystem\obj\Debug\net6.0\PopulationReportSystem.csproj.AssemblyReference.cache
+H:\PRS1\Population Report System\PopulationReportSystem\obj\Debug\net6.0\PopulationReportSystem.GeneratedMSBuildEditorConfig.editorconfig
+H:\PRS1\Population Report System\PopulationReportSystem\obj\Debug\net6.0\PopulationReportSystem.AssemblyInfoInputs.cache
+H:\PRS1\Population Report System\PopulationReportSystem\obj\Debug\net6.0\PopulationReportSystem.AssemblyInfo.cs
+H:\PRS1\Population Report System\PopulationReportSystem\obj\Debug\net6.0\PopulationReportSystem.csproj.CoreCompileInputs.cache
+H:\PRS1\Population Report System\PopulationReportSystem\bin\Debug\net6.0\PopulationReportSystem.exe
+H:\PRS1\Population Report System\PopulationReportSystem\bin\Debug\net6.0\PopulationReportSystem.deps.json
+H:\PRS1\Population Report System\PopulationReportSystem\bin\Debug\net6.0\PopulationReportSystem.runtimeconfig.json
+H:\PRS1\Population Report System\PopulationReportSystem\bin\Debug\net6.0\PopulationReportSystem.dll
+H:\PRS1\Population Report System\PopulationReportSystem\bin\Debug\net6.0\PopulationReportSystem.pdb
+H:\PRS1\Population Report System\PopulationReportSystem\obj\Debug\net6.0\PopulationReportSystem.dll
+H:\PRS1\Population Report System\PopulationReportSystem\obj\Debug\net6.0\refint\PopulationReportSystem.dll
+H:\PRS1\Population Report System\PopulationReportSystem\obj\Debug\net6.0\PopulationReportSystem.pdb
+H:\PRS1\Population Report System\PopulationReportSystem\obj\Debug\net6.0\PopulationReportSystem.genruntimeconfig.cache
+H:\PRS1\Population Report System\PopulationReportSystem\obj\Debug\net6.0\ref\PopulationReportSystem.dll
